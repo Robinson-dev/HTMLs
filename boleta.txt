@@ -1,0 +1,14 @@
+CR7 S.A
+Avenida Americo Vespucio 123
+Tel: (56) 912345678
+Fecha: 10-06-2024
+Boleta No: 00001
+Cliente: Cristiano Ronaldo
+
+Descripcion         Cantidad    Precio Unitario   Total
+-------------------------------------------------------
+Brocha                  2           5000          10000
+Pintura                 1          15300          15300
+Cinta papel             3           2500           7500
+-------------------------------------------------------
+Total:                                            32800
